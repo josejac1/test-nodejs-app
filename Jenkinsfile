@@ -24,7 +24,7 @@ pipeline {
      }
      stage {
        steps {
-         sh 'echo "mutlibranch"'
+         sh 'echo "mutjndjnlsndsndlsdslibranch"'
    	}
 
    }
