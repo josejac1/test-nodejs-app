@@ -22,7 +22,10 @@ pipeline {
          }
 
      }
-  
+     stage {
+       steps {
+         sh 'echo "mutlibranch"'
    	}
 
    }
+   
